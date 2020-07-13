@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">coba</string>
+    <string name="empty_result">Result is Empty, Try Search Again, make sure you typed right keyword</string>
+    <string name="search">Search</string>
+</resources>
