@@ -9,7 +9,7 @@ class RequestInterceptor : Interceptor {
         return chain.proceed(
             builder
                 //my public access token
-                .addHeader("Authorization", "token 4b66132de70c3321f9305192b5d1ebf84f438958")
+                .addHeader("Authorization", "token 92f58b84343ceb8a108e8a1c331787c50cc46054")
                 .build()
         )
     }
